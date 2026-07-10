@@ -1,9 +1,3 @@
-# 服务器优选工具
-
-一个简化版的Cloudflare Workers优选工具，用来生成订阅链接。
-
-GitHub: https://github.com/byJoey/yx-auto
-
 ## 主要功能
 
 - 优选域名：内置了一些常用的优选域名
